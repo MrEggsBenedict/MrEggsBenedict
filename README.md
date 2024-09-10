@@ -1,11 +1,11 @@
-##👋 Hi, I’m @MrEggsBenedict (▀̿Ĺ̯▀̿ ̿)
+## 👋 Hi, I’m @MrEggsBenedict (▀̿Ĺ̯▀̿ ̿)
   
-##👀 I’m interested in:
+## 👀 I’m interested in:
 -  Malware
 -  Machine Learning
 -  Artificial Intelligence
 
-##🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 -  C
 -  C++
 -  LuaU
