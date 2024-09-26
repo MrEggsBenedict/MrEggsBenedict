@@ -6,9 +6,10 @@
 -  Artificial Intelligence
 
 ## 🌱 I’m currently learning:
+-  SQF
 -  C
 -  C++
--  LuaU
+-  Luau
 -  x86Assembly
 -  Python
 -  Javascript
