@@ -9,6 +9,7 @@
 -  SQF
 -  C
 -  C++
+-  GLua
 -  Luau
 -  x86Assembly
 -  Python
