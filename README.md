@@ -19,22 +19,4 @@
     <br><br>
 </h2>
 
-<h2 align="center">
-    My repositories
-    <br><br>
-    <a href="https://github.com/MrEggsBenedict/ILoveYou">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrEggsBenedict&repo=ILoveYou&theme=dark">
-    </a>
-    <a href="https://github.com/MrEggsBenedict/Moyai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrEggsBenedict&repo=Moyai&theme=dark">
-    </a>
-    <a href="https://github.com/MrEggsBenedict/Tomfoolery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrEggsBenedict&repo=Tomfoolery&theme=dark">
-    </a>
-    <a href="https://github.com/MrEggsBenedict/RedScreenOfDeath">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrEggsBenedict&repo=RedScreenOfDeath&theme=dark">
-    </a>
-    <br><br>
-</h2>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer" width="100%">
