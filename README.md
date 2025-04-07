@@ -13,7 +13,7 @@
 <h2 align="center">
     I am currently learning
     <br><br>
-    <img src="assets/languages.png" height="50">
+    <img src="https://raw.githubusercontent.com/MrEggsBenedict/MrEggsBenedict/master/assets/languages.png" height="50">
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggsBenedict&layout=compact&theme=dark" width="400">
     <br><br>
