@@ -21,21 +21,34 @@ Welcome to my profile!
   <br>
   <hr>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&pause=1000&color=837EF1&center=true&vCenter=true&width=435&lines=I'm+Mr+Eggs+Benedict" alt="Typing SVG" /></a>
+  
 
-  <div align="left">
-    <h1>About Me:</h1>
-    <p><b>Country:</b> Australia</p>
-    <p><b>Uptime:</b> 2 years</p>
-    <p><b>OS:</b> Arch Linux, TailsOS, Windows 10/11</p>
-    <h1>Languages:</h1>
-    <p>C, C++, C#, Javascript, Typescript</p>
-    <p>Python, Lua, Visual Basic Script</p>
-    <p>HTML, CSS</p>
-    <h1>Contact Me</h1>
-    <p><b>Discord (Preferred):</b> mr_eggs_benedict</p>
-    <p><b>GMail:</b> mreggsbenedict10@gmail.com</p>
-    <p><b>Outlook:</b> mreggsbenedict10@outlook.com</p>
-  </div>
+  <table border="1";">
+      <tr>
+          <th colspan="3"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&pause=1000&color=837EF1&center=true&vCenter=true&width=435&lines=I'm+Mr+Eggs+Benedict" alt="Typing SVG" /></a></th>
+      </tr>
+      <tr>
+          <td align="left">About Me</td>
+          <td align="center">Languages</td>
+          <td align="right">Contact</td>
+      </tr>
+      <tr>
+          <td>
+              Country: Australia<br>
+              Experience: 3 years<br>
+              OS: Arch Linux, Windows 10/11
+          </td>
+          <td>
+              C, C++, C#, Javascript, Typescript<br>
+              Python, Lua, Luau Visual Basic Script<br>
+              HTML, CSS
+          </td>
+          <td>
+              <b>Discord: mr_eggs_benedict (Preferred)</b><br>
+              GMail: mreggsbenedict10@gmail.com<br>
+              Outlook: mreggsbenedict10@outlook.com
+          </td>
+    </tr>
+  </table>
   <hr>
 </div>
