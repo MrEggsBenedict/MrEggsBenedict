@@ -44,7 +44,7 @@ Welcome to my profile!
               HTML, CSS
           </td>
           <td>
-              <b>Discord: mr_eggs_benedict (Preferred)</b><br>
+              <b>Discord: mreggsbenedict0 (Preferred)</b><br>
               GMail: mreggsbenedict10@gmail.com<br>
               Outlook: mreggsbenedict10@outlook.com
           </td>
