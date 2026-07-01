@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.gif" width="100%"/>
+  <img src="Banner_1.gif" width="100%"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=d40007" width="100%"/>
 
   <pre style="text-align: center; font-family: monospace;">
@@ -40,8 +40,7 @@ Welcome to my profile!
           </td>
           <td>
               C, C++, C#, Javascript, Typescript<br>
-              Python, Lua, Luau Visual Basic Script<br>
-              HTML, CSS
+              Python, Lua, Luau, Visual Basic Script<br>
           </td>
           <td>
               <b>Discord: mreggsbenedict0 (Preferred)</b><br>
@@ -51,4 +50,5 @@ Welcome to my profile!
     </tr>
   </table>
   <hr>
+  <img src="Banner_2.gif" width="100%"/>
 </div>
